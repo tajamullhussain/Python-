@@ -1,1 +1,24 @@
+# Day 2  : Modules and pip in python
 
+# Modules is like a code library which can be  imported inside your prograam  . package is a collection of modules. there are two types of modules in python . 
+
+# 1. Built in modules (pre installed modules ) 
+import math  
+import random 
+import os 
+import sys 
+import json 
+import csv  
+import re 
+import urllib 
+import collections 
+
+# 2.  External modules (pip install )
+
+# pip install numpy 
+# pip install opencv 
+# pip install matplotlib 
+# pip install pandas 
+# pip install flask 
+# pip install django
+# pip install tensorflow
